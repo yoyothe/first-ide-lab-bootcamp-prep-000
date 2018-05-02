@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 # just some randomness
 More stuff
+=======
+# just some randomness
+>>>>>>> b3b855f83ad9a68b21db440cb88cb96eae2ebe74
